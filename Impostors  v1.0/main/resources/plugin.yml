@@ -1,0 +1,7 @@
+name: '${project.name}'
+version: '${project.version}'
+authors: ${authors}
+website: '${project.url}'
+main: net.mooncube.impostors.Impostors
+api-version: '${apiVersion}'
+description: Sign payments for using redstone mechanisms.
